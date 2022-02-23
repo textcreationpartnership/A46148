@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas in an act passed in the late Parliament, intituled, an Act for Setling the Subsidy of Poundage, and Granting a Subsidy of Tunnage, and other sums of money, unto His Royal Majestie ... by the Lord Lieutenant and Council, Ormonde.</title>
+            <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46148</idno>
+            <idno type="STC">Wing I816</idno>
+            <idno type="STC">ESTC R36893</idno>
+            <idno type="EEBO-CITATION">16149870</idno>
+            <idno type="OCLC">ocm 16149870</idno>
+            <idno type="VID">104878</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46148)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104878)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas in an act passed in the late Parliament, intituled, an Act for Setling the Subsidy of Poundage, and Granting a Subsidy of Tunnage, and other sums of money, unto His Royal Majestie ... by the Lord Lieutenant and Council, Ormonde.</title>
+                  <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crooke ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1666 [1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 4 lines of text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council chamber in Dublin, the 23 day of January, 1666" [1667]--leaf [2]</note>
+                  <note>Broadside in [2] leaves.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tariff --  Law and legislation --  Ireland.</term>
+               <term>Tonnage fees --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104878:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </q>
+                  <q>HONI SOIT QVI MAL <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap>
+                  </q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lord Lieutenant and Council.</head>
+            <opener>
+               <signed>ORMONDE,</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in an Act paſſed in the late Parliament, in<g ref="char:EOLhyphen"/>tituled, <hi>An Act for ſetling the Subſidy of Poundage, and granting a Subſidy of Tunnage, and other ſums of money, unto His Royal Majeſtie, His Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors, the ſame to be paid upon Merchandizes imported and exported into, or out of the Kingdom of <hi>Ireland,</hi> according to a Book of Rates hereunto annexed,</hi> there are the Proviſoes and Clauſes following; <hi>viz.</hi>
+            </p>
+            <p>
+               <q>You are hereby required to take care that the Act paſſed in <hi>England,</hi> intituled, An Act for the incou<g ref="char:EOLhyphen"/>raging and increaſing of Shipping and Navigation, be from time to time duely obſerved and executed.</q>
+            </p>
+            <p>
+               <q>Provided always, That all Silks, and Silk Manufactures imported into this Your Majeſties Kingdom of <hi>Ireland,</hi> from any Forreign parts, other than from the King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> do pay one intire third part more over and above the Rates impoſed and ſet by the Book of Rates abovementioned, any thing before in this Act, or in the ſaid Book of Rates to the contrary notwithſtanding.</q>
+            </p>
+            <p>
+               <q>Provided alſo, That all Sugars, Indico, Ginger, Cotten-Wool, as all other Wools, and all other commodities of the growth or Manufacture of any the Engliſh Plantati<g ref="char:EOLhyphen"/>ons, firſt imported into, and landed in <hi>England</hi> or <hi>Wales,</hi> and afterward exported from thence into this Your Majeſties Kingdom of Ireland, do pay but one half part of all ſuch Cuſtoms and Subſidies, as according to the ſaid Book of Rates is impoſed and ſet upon the ſaid Commodities, and that all Wines and Tobaccoes, of what ſort ſoever, imported into this Your Majeſties Realm of Ireland, out of your Kingdom of England or Dominion of Wales, do pay ſo much onely in Subſidy, as upon ex<g ref="char:EOLhyphen"/>portation of the ſame Wines and Tobaccoes out of England, ſhall or ought to be repaid or diſcharged of the Subſidy of Tunnage and Poundage, and additional du<g ref="char:EOLhyphen"/>ties there paid or ſecured for the ſame, and that for all other Forreign Commodities, except Wines and Tobaccoes, and commodities from the Engliſh Plantations above<g ref="char:EOLhyphen"/>mentioned, imported into this Your Majeſties Kingdom of Ireland, by any Your Ma<g ref="char:EOLhyphen"/>jeſties Subjects, from any the parts and places beyond the Seas, other than from Your Majeſties Realm of England or Dominion of Wales, there ſhall be ſatisfied and paid to Your Majeſtie, your Heirs and Succeſſors for ever, one third more in Subſidies over and above the Subſidy payable for the ſame, according to your Book of Rates above mentioned, and that for all or any the Commodities or Merchandizes mentioned in this Act, or in the Book of Rates above mentioned, which ſhall hereafter be import<g ref="char:EOLhyphen"/>ed,
+<pb facs="tcp:104878:2"/>
+                  <!-- PDF PAGE 46 -->
+or exported by any Aliens or ſtrangers born out of Your Majeſties Allegiance, the ſaid Aliens and ſtrangers ſhall pay double the Cuſtom or Subſidy payable by virtue of this Act, for the ſame Commodities and Merchandizes imported or exported by all or any of Your Majeſties natural born Subjects, any thing before in this Act, or in the Book of Rates to the contrary notwithſtanding.</q>
+            </p>
+            <p>And whereas by Act of Council made at this Board, dated the <hi>15</hi> day of <hi>September, 1662.</hi> for the reaſons t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erein expreſſed, We did reſolve and agree to diſpenſe with the execution of the ſaid three ſeveral Proviſoes or Clauſes contained in the ſaid Act, for the ſpace of ſix moneths then next enſuing, and that the particular commodities herein hereafter mentioned, be from thence forth during the ſaid ſix moneths rated as followeth, <hi>viz.</hi>
+            </p>
+            <p>Iron of all ſorts Twenty pound <hi>per</hi> tun, and to pay thereout Twenty ſhillings <hi>per</hi> tun for Cuſtom, and Twenty ſhillings <hi>per</hi> tun for Excize.</p>
+            <p>All ſilks wrought, and all ſilks manufactured, except Ribbans, to be rated at Thirty ſhillings <hi>per</hi> pound, and to pay thereout Eighteen pence the pound for Cuſtom, and Eighteen pence the pound for Excize.</p>
+            <p>And that as all plate is freed of Cuſtom, ſo it be freed of Excize alſo.</p>
+            <p>And whereas by Act of Council dated the <hi>28</hi> of <hi>January, 1662.</hi> We did re<g ref="char:EOLhyphen"/>ſolve and agree to diſpenſe with the execution of the aforeſaid three ſeveral proviſoes or clauſes for the ſpace of one whole year, from the expiration of the ſaid ſix moneths.</p>
+            <p>And whereas by Act of Council dated the <hi>27</hi> day of <hi>February, 1663.</hi> We did reſolve and agree to diſpenſe with the execution of the aforeſaid three ſe<g ref="char:EOLhyphen"/>veral proivſoes or clauſes, for the ſpace of one whole year from the expirati<g ref="char:EOLhyphen"/>on of the ſaid former one whole year.</p>
+            <p>And whereas by Act of Council dated the <hi>14</hi> day of <hi>February, 1664.</hi> We did reſolve and agree to diſpenſe with the execution of the aforeſaid three ſe<g ref="char:EOLhyphen"/>veral proviſoes or clauſes for the ſpace of ſix moneths from the expiration of the ſaid laſt mentioned one whole year.</p>
+            <p>And whereas by Act of Council dated the <hi>16</hi> day of <hi>Aug. 1665.</hi> We did reſolve and agree to diſpenſe with the execution of the aforeſaid three ſeveral provi<g ref="char:EOLhyphen"/>ſoes or Clauſes for the ſpace of one whole year from the expiration of the ſaid laſt mentioned ſix moneths.</p>
+            <p>Now for ſpecial reaſons of State neerly concerning His Majeſties ſer<g ref="char:EOLhyphen"/>vice, and in prevention of the inconveniences which may otherwiſe happen to this Kingdom and people in General, We think ſit, and ſo do reſolve and agree by this our Act of Council, to diſpenſe, and do hereby accordingly di<g ref="char:EOLhyphen"/>ſpenſe with the execution of the aforeſaid three ſeveral proviſoes or clauſes for the ſpace of two whole years, from the expiration of the ſaid laſt men<g ref="char:EOLhyphen"/>tioned one whole year.</p>
+            <p>And do hereby declare, That the particular Commodities herein former<g ref="char:EOLhyphen"/>merly mentioned, be during the ſaid two whole years from the expiration of the ſaid laſt mentioned one whole year as aforeſaid, rated as they are for<g ref="char:EOLhyphen"/>merly rated in the ſaid Act of Council, dated the <hi>15</hi> of <hi>September, 1662.</hi> and not otherwiſe. And it is Ordered, That this Diſpenſation be made known to the Farmers of His Majeſties Cuſtoms and Excize in this Kingdom, to be by them ſignified to the Officers of all the ſeveral Ports of this King<g ref="char:EOLhyphen"/>dom, and the ſeveral Creeks and Members thereof, to the end that all per<g ref="char:EOLhyphen"/>ſons concerned may conform themſelves, and yield obedience thereunto.</p>
+            <closer>
+               <dateline>Given at the Council Chamber in <hi>Dublin,</hi> 
+                  <date>the 23 day of <hi>January,</hi> 1666.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Ja. Armacha<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us.</item>
+                     <item>Roſcommon.</item>
+                     <item>Meath.</item>
+                     <item>Dungannon. </item>
+                     <item>Hen. Midenſis.</item>
+                     <item>Heugh Glenauly.</item>
+                     <item>Rob. Byron.</item>
+                     <item>Fra.Hamilton.</item>
+                     <item>Rob. Meredith.</item>
+                     <item>Theo. Jones.</item>
+                  </list>
+               </signed>
+               <lb/>
+GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> Printed by <hi>John Crooke,</hi> Printer to the Kings Moſt Excellent Majeſtie, and are to be ſold by <hi>Samuel Dancer</hi> in <hi>Caſtleſtreet.</hi> 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
